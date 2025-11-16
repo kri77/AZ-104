@@ -2,9 +2,8 @@
 
 **Topics Covered**: VMs, RBAC, Azure AD, Policies, Encryption, Cost Management  
 
-**Time**: ~0.75 hours
+**Estimated time**: ~0.75 hours
 
----
 
 ## Summary
 

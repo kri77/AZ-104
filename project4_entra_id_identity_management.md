@@ -2,9 +2,8 @@
 
 **Topics Covered**: Entra ID, User and Group Management, App Registration, Conditional Access, MFA  
 
-**Time**: ~0.75 hours
+**Estimated time**: ~0.75 hours
 
----
 
 ## Summary
 

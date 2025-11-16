@@ -12,7 +12,6 @@ This chapter covers Azure Automation, runbooks, Managed Identity, and scheduled 
 ## Scenario
 A company wants to reduce cost by automatically shutting down non-production VMs at night. You will create a runbook and schedule it.
 
----
 
 ## Lab Activities
 

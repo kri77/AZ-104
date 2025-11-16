@@ -12,7 +12,6 @@ This chapter focuses on container-based application deployment using Azure Conta
 ## Scenario
 Developers want to deploy a microservice quickly without maintaining infrastructure. You will containerize an app, store it in ACR, and deploy it into Azure Container Apps.
 
----
 
 ## Lab Activities
 

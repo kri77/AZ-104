@@ -12,7 +12,6 @@ This chapter dives into advanced Storage Account capabilities, including immutab
 ## Scenario
 The finance team needs immutable archived logs and an internal static dashboard hosted directly in Storage.
 
----
 
 ## Lab Activities
 

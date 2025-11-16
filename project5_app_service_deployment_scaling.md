@@ -2,7 +2,7 @@
 
 **Topics Covered**: App Service, Deployment Slots, Autoscaling, Backup, Monitoring  
 
-**Time**: ~0.75 hours
+**Estimated time**: ~0.75 hours
 
 ---
 

@@ -12,7 +12,6 @@ This chapter teaches how to build a hub-spoke architecture, route outbound traff
 ## Scenario
 A company wants full control over outbound traffic and requires all traffic to pass through a central firewall.
 
----
 
 ## Lab Activities
 

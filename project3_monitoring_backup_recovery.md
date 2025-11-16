@@ -2,9 +2,8 @@
 
 **Topics Covered**: Azure Monitor, Alerts, Backup, Encryption, Protocols, Log Queries  
 
-**Time**: ~0.5 hours
+**Estimated time**: ~0.5 hours
 
----
 
 ## Summary
 

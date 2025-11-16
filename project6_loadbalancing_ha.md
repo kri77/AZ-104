@@ -13,7 +13,6 @@ This chapter explains how to design and deploy highly available solutions using 
 ## Scenario
 A company needs a multi-VM web application that remains online even when a VM or an entire availability zone goes down. You will deploy a scale set, configure a load balancer, set autoscaling rules, and perform a failover test.
 
----
 
 ## Lab Activities
 
@@ -29,7 +28,6 @@ A company needs a multi-VM web application that remains online even when a VM or
    - Create or select a VNet & subnet  
 5. Create the VMSS.
 
----
 
 ### 2. Configure Standard Load Balancer
 1. Open your Load Balancer → **Backend pools** → **Add**  
@@ -44,7 +42,6 @@ A company needs a multi-VM web application that remains online even when a VM or
    - Health Probe: select your HTTP probe  
    - Session persistence: None  
 
----
 
 ### 3. Configure Autoscaling
 Go to VMSS → **Scaling**  
@@ -53,7 +50,6 @@ Go to VMSS → **Scaling**
 - Minimum instances: 2  
 - Maximum instances: 10  
 
----
 
 ### 4. Failover & HA Validation
 1. Stop one instance inside your scale set.  

@@ -12,7 +12,6 @@ This chapter teaches how to deploy a secure Azure SQL environment using Private 
 ## Scenario
 A company requires their SQL Database to be accessible only through internal networks. You will lock down public access and ensure private-only connectivity.
 
----
 
 ## Lab Activities
 

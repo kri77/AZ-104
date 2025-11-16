@@ -2,9 +2,8 @@
 
 **Topics Covered**: Virtual Networks, NSGs, Storage Accounts, Encryption, Protocols, ARM Templates  
 
-**Time**: ~0.75 hours
+**Estimated time**: ~0.75 hours
 
----
 
 ## Summary
 

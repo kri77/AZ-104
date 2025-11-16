@@ -12,7 +12,6 @@ This chapter focuses on advanced monitoring concepts in Azure, including log col
 ## Scenario
 A company needs to centralize logs from multiple Azure resources and build operational dashboards.
 
----
 
 ## Lab Activities
 
@@ -25,7 +24,6 @@ Enable for:
 
 Send to a Log Analytics workspace.
 
----
 
 ### 2. Create Alerts
 Examples:
@@ -33,7 +31,6 @@ Examples:
 - Storage account throttling  
 - Key Vault access denied events  
 
----
 
 ### 3. Sample KQL Queries
 
@@ -50,7 +47,6 @@ AzureDiagnostics
 | summarize count() by bin(TimeGenerated, 5m)
 ```
 
----
 
 ### 4. Create a Workbook
 - Add multiple KQL visualizations  
