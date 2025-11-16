@@ -20,17 +20,17 @@ Each lab gives you a clear scenario, step-by-step tasks, and validation steps so
 ## Included Labs (Chapters 1–12)
 
 ### Core Administrator Skills
-1. [Identity & Governance](project1_azure_compute_identity.md)
-2. [Storage](project2_azure_networking_storage.md)
-3. [Compute](project3_monitoring_backup_recovery.md)
-4. [Networking](project4_entra_id_identity_management.md)
-5. [Monitoring & Security](project5_app_service_deployment_scaling.md)
+1. [Identity & Governance](project01_azure_compute_identity.md)
+2. [Storage](project02_azure_networking_storage.md)
+3. [Compute](project03_monitoring_backup_recovery.md)
+4. [Networking](project04_entra_id_identity_management.md)
+5. [Monitoring & Security](project05_app_service_deployment_scaling.md)
 
 ### Advanced Administrator Skills
-6. [Load Balancing & High Availability](project6_loadbalancing_ha.md)
-7. [Container Apps & ACR](project7_containerapps_acr.md)
-8. [Azure SQL with Private Endpoints](project8_sql_privateendpoint.md)
-9. [Automation Accounts & Runbooks](project9_automation_runbooks.md)
+6. [Load Balancing & High Availability](project06_loadbalancing_ha.md)
+7. [Container Apps & ACR](project07_containerapps_acr.md)
+8. [Azure SQL with Private Endpoints](project08_sql_privateendpoint.md)
+9. [Automation Accounts & Runbooks](project09_automation_runbooks.md)
 10. [Advanced Storage Scenarios](project10_storage_advanced.md)
 11. [Azure Firewall & Routing](project11_firewall_routing.md)
 12. [Monitoring & KQL Analytics](project12_monitoring_kql.md)
