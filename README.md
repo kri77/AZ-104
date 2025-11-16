@@ -6,8 +6,6 @@ The labs follow a realistic, scenario-based approach and focus on how Azure work
 You’ll work directly in the Azure portal, and in many labs also with Azure CLI, identities, scaling, networking, monitoring, containers, automation, and security.
 The goal is simple: make you confident, fast, and technically solid in core Azure administration tasks.
 
-## What This Lab Pack Aims to Achieve
-
 By completing these labs, you will:
 
 - Build a deep, practical understanding of the core services covered in AZ-104  
@@ -22,20 +20,20 @@ Each lab gives you a clear scenario, step-by-step tasks, and validation steps so
 ## Included Labs (Chapters 1–12)
 
 ### Core Administrator Skills
-1. Identity & Governance  
-2. Storage  
-3. Compute  
-4. Networking  
-5. Monitoring & Security  
+1. [Identity & Governance](project1_azure_compute_identity.md)
+2. [Storage](project2_azure_networking_storage.md)
+3. [Compute](project3_monitoring_backup_recovery.md)
+4. [Networking](project4_entra_id_identity_management.md)
+5. [Monitoring & Security](project5_app_service_deployment_scaling.md)
 
 ### Advanced Administrator Skills
-6. Load Balancing & High Availability  
-7. Container Apps & ACR  
-8. Azure SQL with Private Endpoints  
-9. Automation Accounts & Runbooks  
-10. Advanced Storage Scenarios  
-11. Azure Firewall & Routing  
-12. Monitoring & KQL Analytics  
+6. [Load Balancing & High Availability](project6_loadbalancing_ha.md)
+7. [Container Apps & ACR](project7_containerapps_acr.md)
+8. [Azure SQL with Private Endpoints](project8_sql_privateendpoint.md)
+9. [Automation Accounts & Runbooks](project9_automation_runbooks.md)
+10. [Advanced Storage Scenarios](project10_storage_advanced.md)
+11. [Azure Firewall & Routing](project11_firewall_routing.md)
+12. [Monitoring & KQL Analytics](project12_monitoring_kql.md)
 
 ## How to Use This Repository
 
@@ -51,23 +49,3 @@ Each lab gives you a clear scenario, step-by-step tasks, and validation steps so
 - Azure CLI installed (optional, but recommended)  
 - Basic familiarity with Azure Portal  
 - Permissions to create resource groups and core services  
-
-## Structure
-
-README.md  
-chapter1_identity_governance.md  
-chapter2_storage.md  
-chapter3_compute.md  
-chapter4_networking.md  
-chapter5_monitoring.md  
-chapter6_loadbalancing_ha.md  
-chapter7_containerapps_acr.md  
-chapter8_sql_privateendpoint.md  
-chapter9_automation_runbooks.md  
-chapter10_storage_advanced.md  
-chapter11_firewall_routing.md  
-chapter12_monitoring_kql.md  
-
-## Feedback or Improvements
-
-If you want additional labs, Infrastructure-as-Code versions (Bicep/ARM), Mermaid diagrams, or a GitHub Wiki layout, I can generate that as well.
